@@ -62,6 +62,7 @@
         }
       ]
     },
+    "asar": false,
     "files": [
       "dist/",
       "node_modules/",
@@ -69,6 +70,12 @@
       "main.js",
       "main.js.map",
       "package.json"
+    ],
+    "extraFiles": [
+      "app/rubicon/"
+    ],
+    "extraResources": [
+      "app/rubicon/"
     ],
     "directories": {
       "buildResources": "resources",

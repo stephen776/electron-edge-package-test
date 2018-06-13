@@ -1,0 +1,9 @@
+C:\electron-react-typescript-boilerplate\app\dotnet\ExternalLibrary\bin\Debug\netcoreapp2.0\ExternalLibrary.deps.json
+C:\electron-react-typescript-boilerplate\app\dotnet\ExternalLibrary\bin\Debug\netcoreapp2.0\ExternalLibrary.dll
+C:\electron-react-typescript-boilerplate\app\dotnet\ExternalLibrary\bin\Debug\netcoreapp2.0\ExternalLibrary.pdb
+C:\electron-react-typescript-boilerplate\app\dotnet\ExternalLibrary\obj\Debug\netcoreapp2.0\ExternalLibrary.csprojAssemblyReference.cache
+C:\electron-react-typescript-boilerplate\app\dotnet\ExternalLibrary\obj\Debug\netcoreapp2.0\ExternalLibrary.csproj.CoreCompileInputs.cache
+C:\electron-react-typescript-boilerplate\app\dotnet\ExternalLibrary\obj\Debug\netcoreapp2.0\ExternalLibrary.AssemblyInfoInputs.cache
+C:\electron-react-typescript-boilerplate\app\dotnet\ExternalLibrary\obj\Debug\netcoreapp2.0\ExternalLibrary.AssemblyInfo.cs
+C:\electron-react-typescript-boilerplate\app\dotnet\ExternalLibrary\obj\Debug\netcoreapp2.0\ExternalLibrary.dll
+C:\electron-react-typescript-boilerplate\app\dotnet\ExternalLibrary\obj\Debug\netcoreapp2.0\ExternalLibrary.pdb
