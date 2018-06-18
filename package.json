@@ -66,16 +66,11 @@
     "files": [
       "dist/",
       "node_modules/",
+      "dotnet/",
       "app.html",
       "main.js",
       "main.js.map",
       "package.json"
-    ],
-    "extraFiles": [
-      "app/rubicon/"
-    ],
-    "extraResources": [
-      "app/rubicon/"
     ],
     "directories": {
       "buildResources": "resources",
